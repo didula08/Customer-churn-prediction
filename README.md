@@ -20,11 +20,11 @@ This project predicts **customer churn** using machine learning models trained o
 - scikit-learn (Logistic Regression)
 - scikit-learn (Random Forest)
 
-## ✅ Best Metrics (auto‑parsed)
-- **Accuracy**: 1.0000
-- **F1-score**: 1.0000
-- **Precision**: 1.0000
-- **Recall**: 1.0000
+## ✅ Best Metrics
+- **Accuracy**
+- **F1-score**
+- **Precision**
+- **Recall**
 
 ## 🛠️ Tech Stack
 - Python, Jupyter Notebook
